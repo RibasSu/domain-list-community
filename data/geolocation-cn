@@ -124,7 +124,6 @@ include:vgtime
 include:xd
 include:xiaohongshu
 include:ximalaya
-include:yamibo
 include:youku
 include:yy
 include:zhanqi
@@ -146,6 +145,7 @@ wuyou.net # 无忧启动论坛
 klpbbs.com # 苦力怕论坛
 mcbbs.net # MCBBS论坛
 uiwow.com # 魔兽有爱论坛
+right.com.cn # 恩山论坛
 
 # Fofa网站测绘
 fofa.info
@@ -176,7 +176,13 @@ llscdn.com
 llsserver.com
 
 # 百词斩
-baicizhan.org
+baicizhan.com
+baicizhan.org  
+bczcdn.com     
+bczeducation.cn
+
+# 小站教育
+zhan.com
 
 # Burning Vocabulary
 burningvocabulary.cn
@@ -240,6 +246,7 @@ include:antutu
 include:bitauto
 include:category-collaborate-cn
 include:category-documents-cn
+include:category-ntp-cn
 include:capitalonline
 include:chinaso
 include:chinaz
@@ -263,14 +270,22 @@ include:moji
 include:nowcoder
 include:polyv
 include:renren
+include:tendcloud
 include:vaptcha
 include:wiwide
 include:wjx
 include:wolai
 include:yinxiang
 include:zdns
+include:zhangtao
 
 mihuashi.com # 米畫師
+
+# Tower 团队协作
+tower.im
+
+# 沃丰科技
+udesk.cn
 
 # Social Media
 include:category-social-media-cn
@@ -290,9 +305,9 @@ include:huawei
 include:iflytek
 include:jushuitan
 include:kingsoft
+include:lenovo
 include:meizu
 include:netease
-include:nubia
 include:oppo
 include:oneplus
 include:qihoo360
@@ -302,6 +317,7 @@ include:tencent
 include:vivo
 include:xiaomi
 include:xunlei
+include:zte
 
 ezpro.pro # 小马路由
 
@@ -327,6 +343,13 @@ oi-wiki.com
 openjudge.cn
 uoj.ac
 vijos.org
+
+# LeetCode 中国站
+leetcode.cn
+leetcode-cn.com
+lingkou.xyz
+lingkou.com
+lingkou.cn
 
 # 语言能力测试
 include:j-test
@@ -373,6 +396,9 @@ include:bjyouth
 include:sumkoo
 ## 知藏（北京）数据技术有限公司 (京ICP备19038827号)
 zzdtec.com
+
+# 祐全科技
+include:youquan
 
 
 # The following domains are carried over from geosite:cn.
@@ -950,7 +976,6 @@ lawxp.com
 leangoo.com
 leanote.com
 ledu.com
-leetcode-cn.com
 leikeji.com
 leiphone.com
 leiting.com
@@ -1462,3 +1487,19 @@ ecombdapi.com
 
 include:fengxing
 include:suishouji
+
+# 云鲸科技
+include:narwal
+
+# 石头科技
+include:roborock
+
+# 花瓣网 稿定（厦门）信息服务有限公司 闽ICP备2021013850号-2
+huaban.com
+dancf.com
+
+# 酷家乐 杭州群核信息技术有限公司 浙ICP备12022366号-6
+kujiale.com
+
+# 文叔叔 成都字节星云科技有限公司 蜀ICP备19024011号
+wss.zone
