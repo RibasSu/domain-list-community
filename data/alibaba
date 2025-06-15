@@ -13,6 +13,7 @@ tmall
 include:alibaba-ads
 include:alibabacloud
 include:aliyun
+include:cainiao
 include:dingtalk
 include:eleme
 include:teambition
@@ -27,6 +28,7 @@ aliapp.org
 alibaba-inc.com
 alibaba.com
 alibabacapital.com
+alibabachengdun.com
 alibabacorp.com
 alibabadoctor.com
 alibabafuturehotel.com
@@ -35,18 +37,21 @@ alibabaplanet.com
 alibabaued.com
 alibabausercontent.com
 alifanyi.com
+aligames.com
 alihealth.com.cn
-alihealth.hk
+alihealth.hk @!cn
 aliimg.com
 alikmd.com
 alimama.com
 alimebot.com
 alimei.com
+alimmdn.com
 alios.cn
 alipay.cn
 alipay.com
 alipay.com.cn
 alipaydns.com
+alipaylog.com
 alipayobjects.com
 aliplus.com
 aliresearch.com
@@ -114,7 +119,7 @@ zuodao.com
 
 # AliExpress
 aliexpress.com
-aliexpress.ru
+aliexpress.ru @!cn
 
 # Alipay+
 alipayplus.com
@@ -131,13 +136,9 @@ alipan.com
 aliyundrive.com
 aliyundrive.net
 
-# 菜鸟
-cainiao.com
-cainiao.com.cn
-cainiao-inc.com
-
 # 盒马
 freshhema.com
+freshippo.com
 hemamax.com
 hemaos.com
 hemashare.cn
@@ -171,13 +172,15 @@ taobizhong.com
 taopiaopiao.com
 tb.cn
 tbcache.com
+tbcdn.cn
 tburl.in
 tmall.com
-tmall.ru
+tmall.ru @!cn
 tmalltv.com
 tmjl.ai
 
-# 夸克云盘
+# 夸克
+cueme.cn
 quark.cn
 
 # 飞猪
@@ -185,14 +188,11 @@ alitrip.com
 feizhu.cn
 feizhu.com
 fliggy.com
-fliggy.hk
+fliggy.hk @!cn
 iuynfg.com
 
 # 高德地图
-amap.com
-amapauto.com
-autonavi.com
-gaode.com
+include:amap
 
 # 虾米音乐
 xiami.com
